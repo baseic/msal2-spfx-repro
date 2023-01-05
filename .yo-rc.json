@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "14.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "msal-2-repro",
+    "libraryId": "0b8c392e-7659-44d1-813d-99738389cfe2",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "msal-2-repro",
+    "solutionShortDescription": "msal-2-repro description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

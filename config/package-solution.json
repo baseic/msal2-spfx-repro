@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "msal-2-repro-client-side-solution",
+    "id": "0b8c392e-7659-44d1-813d-99738389cfe2",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "msal-2-repro description"
+      },
+      "longDescription": {
+        "default": "msal-2-repro description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "msal-2-repro Feature",
+        "description": "The feature that activates elements of the msal-2-repro solution.",
+        "id": "f93f4594-427f-48c8-bb2b-d8d3e9828c43",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/msal-2-repro.sppkg"
+  }
+}
